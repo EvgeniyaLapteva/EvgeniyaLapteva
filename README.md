@@ -1,5 +1,10 @@
 ### Hello! 👋 I'm Jane! I am studying Java and looking for a job
 
+My projects: 
+## Проект Filmorate - https://github.com/EvgeniyaLapteva/java-filmorate
+## Проект ShareIt -https://github.com/EvgeniyaLapteva/java-shareit
+## Проект ExploreWithMe - https://github.com/EvgeniyaLapteva/java-explore-with-me
+
 Technologies & tools:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
